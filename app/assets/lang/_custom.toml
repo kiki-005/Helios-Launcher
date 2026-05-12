@@ -1,0 +1,20 @@
+# Custom Language File for Launcher Customizer
+
+[ejs.app]
+title = "Helios Launcher - v1.0"
+
+[ejs.landing]
+mediaGitHubURL = "https://www.battly.site"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "https://discord.battly.site"
+
+[ejs.settings]
+sourceGithubLink = "https://discord.battly.site"
+supportLink = "https://discord.battly.site"
+
+[ejs.welcome]
+welcomeHeader = "BENVENUTO/A SU HELIOS LAUNCHER"
+welcomeDescription = ""
+welcomeDescCTA = "Copyright © 202026 Battly Studios"
